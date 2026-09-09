@@ -1,9 +1,3 @@
-# Rash
-
-## Introduction
-A Linux shell implemented in C that supports pipes, background processes, etc.
-
-
 ## Run the shell
 
 1. Clone this directory and `cd` into it.
